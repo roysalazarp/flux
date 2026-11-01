@@ -1,3 +1,3 @@
 # Flux
 
-This is a collaboration project!
+This is a collaboration project
